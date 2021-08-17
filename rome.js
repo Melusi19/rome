@@ -33,6 +33,7 @@ function ArabicToRoman(num) {
     return roman;
 }
 
-const sum = num1 + num2;
+const getRoman = function(roman, roNum) {
+    return getRoman;
 
-console.log(ArabicToRoman())
+console.log(ArabicToRoman(a))
